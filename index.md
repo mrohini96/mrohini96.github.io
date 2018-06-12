@@ -32,6 +32,6 @@ Syntax highlighted code block
  _1999(oranges)_
  `Mangoes`
 
-[Link](https://gooddata.com) and ![Image](C:\Users\rohini.mallewade\Downloads)
+[Link](https://gooddata.com) and ![Image](IMG_20180227_225347_648.jpg)
 
 
